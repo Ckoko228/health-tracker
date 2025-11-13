@@ -2,7 +2,7 @@ health_tracker bd name
 php artisan serve start code 
 info for login in bd 
 Chat gpt in help)
-https://www.apachefriends.org
+https://www.php.net/downloads.php
 https://getcomposer.org/download/
 composer install
 php artisan key:generate
